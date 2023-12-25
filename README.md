@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @narzk
 - 👀 I’m interested in programming, creating, reading, writing, hiking, running, drinking coffee and eating Pizza
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on React projects
+- I am a researcher now. In Pittsburgh University. 
 - 📫 How to reach me arazkhanin@gmail.com
 
 <!---
