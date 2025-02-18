@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narzk
+- 👋 Hi, I’m Niloofar Arazkhani @narzk
 - 👀 I’m interested in programming, creating, reading, writing, hiking, running, drinking tea and eating Pizza
 - I am a researcher now. In University of Pittsburgh . 
 
