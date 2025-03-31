@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Niloofar Arazkhani @narzk
-- 👀 I’m interested in programming, creating, reading, writing, hiking, running, drinking tea and eating Pizza
-- I am a researcher now. In University of Pittsburgh . 
-
+- 👋 Hi, I’m Niloofar Arazkhani (@narzk)  
+- 👀 I'm passionate about research in **Computational Biology** and developing tools to advance this field.  
+- 🧬 Currently, I’m a researcher at the **University of Pittsburgh** – learn more here: [nmzlab.pitt.edu/people/niloofar-arazkhani](https://www.nmzlab.pitt.edu/people/niloofar-arazkhani)
 
 <!---
 narzk/narzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
